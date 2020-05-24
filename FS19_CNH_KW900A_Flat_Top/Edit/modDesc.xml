@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>CNH Modding</author>
+    <version>6.9.6.9</version>
+    <title>
+        <en>Kenworth W900a Flat Top</en>
+        <de>Kenworth W900a Flat Top</de>
+    </title>
+    <description>
+        <en>Kenworth W900a Flat Top</en>
+        <de>Kenworth W900a Flat Top</de>
+    </description>
+	<brands>
+        <brand name="KENWORTH" title="Kenworth" image="W900A/Brand.dds"/>
+    </brands>
+    <iconFilename>store_W900a.dds</iconFilename>
+    <storeItems>
+        <storeItem rootNode="vehicle" xmlFilename="W900A.xml"/>
+    </storeItems>
+	<multiplayer supported="true"/>
+</modDesc>
+<!--Edit by Zirbird-->
